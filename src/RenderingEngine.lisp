@@ -1,6 +1,6 @@
 (defun init-graphics ()
   (progn
-    (load package.lisp)
+    ;;(load "../lib/cl-glfw3-master/package.lisp")
     (ql:quickload :cl-glfw3)	
             
   )
